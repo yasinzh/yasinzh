@@ -1,5 +1,5 @@
 # 🐱‍💻 About Me:
-👀 currently learning Javascript 👀
+👀 currently learning Javascript 👀 <br>
 🔖 You can reach me on Discord yasin_zahmatkesh 🔖
 
 
