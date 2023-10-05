@@ -1,6 +1,6 @@
 # 🐱‍💻 About Me:
 👀 currently learning Javascript 👀 <br>
-🔖 You can reach me on Discord <h4 style="color: red;">yasin_zahmatkesh</h4> 🔖
+🔖 You can reach me on Discord <p style="color: red;">yasin_zahmatkesh</p> 🔖
 
 
 ## 🌍 Socials:
