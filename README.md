@@ -1,6 +1,6 @@
 # 🐱‍💻 About Me:
 👀 currently learning Javascript 👀 <br>
-🔖 You can reach me on Discord yasin_zahmatkesh 🔖
+🔖 You can reach me on Discord dr_yasin 🔖
 
 
 ## 🌍 Socials:
